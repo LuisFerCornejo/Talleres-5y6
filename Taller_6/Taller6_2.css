@@ -1,0 +1,26 @@
+Body {
+    background-image: url(../Taller_6/Fondo1.jpg);
+}
+
+p{
+    text-align: center;
+     margin-left: 100px;
+     
+}
+div{
+    background-color: rgb(104, 102, 104);
+    color: rgb(222, 218, 218);
+    width:200px ;
+    height: 260px;
+    
+    margin-left: 320px ;
+    border: 4px rgb(0, 178, 194) solid;
+    
+}
+section{
+    border: 2px rgb(117, 1, 152) solid;
+    margin-left: 290px;
+    width: 900px;
+    background-color: rgb(215, 185, 216);
+    height: 1000px;
+}
